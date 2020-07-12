@@ -1,0 +1,96 @@
+.cabeza {
+    background: rgb(179, 203, 214);
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+.principal {
+    background: rgb(216, 223, 200);
+}
+
+nav {
+    background: rgb(240, 219, 180);
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.botones {
+    display: inline-block;
+    background: rgb(204, 224, 226);
+    color: black;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.botones:hover {
+    background: #feceab;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+aside {
+    display: inline-block;
+    width: 250px;
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.primera {
+    background-color: #f0ece3;
+    margin: 0px;
+    padding: 10px 50px 200px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.divprimera {
+    background: #41382f;
+    color: beige;
+    padding: 20px;
+    display: flex;
+    width: 40%;
+    margin: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.segunda {
+    background: #4e4e4e;
+    margin: 0px;
+    padding: 50px;
+}
+
+.tercera {
+    display: inline-block;
+}
+
+.pie {
+    background-color: rgb(36, 39, 37);
+    color: aliceblue;
+    padding: 20px 40px;
+    margin: 0px;
+}
